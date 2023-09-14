@@ -23,7 +23,7 @@ CRUD é um acrônimo que representa as quatro operações fundamentais em sistem
     ```
       git clone https://github.com/JoseCMessias/api-veiculos.git
     ```
-- Instale o npm no projeto dentro da pasta algCar:
+- Instale o npm no projeto dentro da pasta api-veiculos:
      ```
        npm install
      ```
