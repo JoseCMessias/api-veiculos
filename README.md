@@ -11,6 +11,7 @@ CRUD é um acrônimo que representa as quatro operações fundamentais em sistem
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Node](https://pt-br.legacy.reactjs.org/)
 - [Visual Studio Code](https://code.visualstudio.com)
+- [Postman](https://www.postman.com/downloads/)
 
 ## Serviços Usados &#128736;&#65039;
 
@@ -34,17 +35,8 @@ CRUD é um acrônimo que representa as quatro operações fundamentais em sistem
 ## Características 		&#128221;
 
 As principais características do site são:
-- Adicionar um veículos
-- Editar um veículos
+- Criar um veículos
+- Ler um veículos
+- Atualizar um veículos
 - Excluir um veículos
-- Listar os veículos
 
-## Autor 	&#128101;
-
-- [Jose C. Messias](https://github.com/JoseCMessias)
-
-<!--
-## Licença  &#9745;&#65039;
-
-- [Licença MIT]()
--->
