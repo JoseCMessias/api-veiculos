@@ -43,6 +43,8 @@ As principais características do site são:
 
 - [Jose C. Messias](https://github.com/JoseCMessias)
 
+<!--
 ## Licença  &#9745;&#65039;
 
 - [Licença MIT]()
+-->
