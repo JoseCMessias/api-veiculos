@@ -29,7 +29,7 @@ CRUD é um acrônimo que representa as quatro operações fundamentais em sistem
      ```
 - Execute o projeto com o comando:
     ```
-       npm run dev
+       npm start
      ```
 
 ## Características 		&#128221;
