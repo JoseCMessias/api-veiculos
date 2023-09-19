@@ -6,7 +6,7 @@
 </h1>
 
 ## Sobre &#128161;
-CRUD é um acrônimo que representa as quatro operações fundamentais em sistemas de gerenciamento de banco de dados e aplicativos: Create (Criar), Read (Ler), Update (Atualizar) e Delete (Excluir). Essas operações permitem que os usuários criem, leiam, atualizem e excluam dados em um sistema, proporcionando a funcionalidade básica para interagir com informações em bancos de dados e aplicativos. O CRUD é essencial para muitos tipos de aplicativos, desde simples aplicativos de lista de tarefas até sistemas de gerenciamento de recursos complexos.
+CRUD é um acrônimo que representa as quatro operações fundamentais em sistemas de gerenciamento de bancos de dados e aplicativos: Create (Criar), Read (Ler), Update (Atualizar) e Delete (Excluir). Essas operações permitem que os usuários criem, leiam, atualizem e excluam dados em um sistema, fornecendo a funcionalidade básica para interagir com informações em bancos de dados e aplicativos. O CRUD é essencial para uma ampla variedade de aplicativos, desde simples listas de tarefas até sistemas complexos de gerenciamento de recursos.
   
 ## Tecnologias &#128126;
 
@@ -14,6 +14,7 @@ CRUD é um acrônimo que representa as quatro operações fundamentais em sistem
 - [Node](https://pt-br.legacy.reactjs.org/)
 - [Visual Studio Code](https://code.visualstudio.com)
 - [Postman](https://www.postman.com/downloads/)
+- [MongoDB](https://www.mongodb.com/pt-br)
 
 ## Serviços Usados &#128736;&#65039;
 
