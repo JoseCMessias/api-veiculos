@@ -12,9 +12,9 @@ CRUD é um acrônimo que representa as quatro operações fundamentais em sistem
 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Node](https://pt-br.legacy.reactjs.org/)
+- [MongoDB](https://www.mongodb.com/pt-br)
 - [Visual Studio Code](https://code.visualstudio.com)
 - [Postman](https://www.postman.com/downloads/)
-- [MongoDB](https://www.mongodb.com/pt-br)
 
 ## Serviços Usados &#128736;&#65039;
 
