@@ -1,5 +1,7 @@
 
 <h1 align="center">
+  <img width="800" alt="API-VEICULOS-GITHUB" src="https://github.com/JoseCMessias/api-veiculos/assets/104660308/55b78687-e7ca-474a-acb4-d6df999c2ab2">
+  </br></br>
   <p>CRUD DE VEÍCULOS EM NODE.JS!</p>
 </h1>
 
