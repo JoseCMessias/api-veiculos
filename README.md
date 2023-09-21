@@ -41,9 +41,9 @@ CRUD é um acrônimo que representa as quatro operações fundamentais em sistem
 
 ## Características 		&#128221;
 
-As principais características do site são:
-- Criar um veículos
-- Ler um veículos
-- Atualizar um veículos
+Características da API:
+- Criar um veículo
+- Ler um veículo
+- Atualizar um veículo
 - Excluir um veículos
 
