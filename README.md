@@ -37,7 +37,7 @@ CRUD é um acrônimo que representa as quatro operações fundamentais em sistem
     ```
        npm start
      ```
-- Para as requisiçoes pode ser usado o [postman](https://www.postman.com/downloads/) ou outras plataformas.
+- Para as requisiçoes pode ser utilizado o [postman](https://www.postman.com/downloads/) ou outras plataformas.
 
 ## Características 		&#128221;
 
